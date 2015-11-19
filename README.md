@@ -13,3 +13,6 @@ Twitter Bootstrap - A CSS library that will help us with a good looking style
 JQuery - Combined with Twitter Bootstrap to give some animation to our HTML components
 
 --commit(2011.10.15)
+
+//------ text added -----//
+I Love Git (2015.11.20
