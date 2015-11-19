@@ -12,4 +12,4 @@ Angular.js - A Javascript library that will help us with object binding
 Twitter Bootstrap - A CSS library that will help us with a good looking style
 JQuery - Combined with Twitter Bootstrap to give some animation to our HTML components
 
---commit(2011.10.15)
+--commit(2011.03.09)
